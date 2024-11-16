@@ -34,6 +34,8 @@ These three consituent parts can the be combined with a useful but somewhat verb
 
 Any specific part of a view can be understood by its positional information: `Component__semantic-subsection--logic`
 
+BEM affords both a solution for style but also a fundamental means of segmenting a component to constituent parts.
+
 .Cart
 
 - -> \_\_items
