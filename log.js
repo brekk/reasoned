@@ -1,2 +1,2 @@
 import { complextrace } from "envtrace"
-export const log = complextrace(`destined`, [`fs`, `future`, `path`])
+export const log = complextrace(`reasoned`, [`fs`, `future`, `path`])

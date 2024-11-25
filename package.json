@@ -1,22 +1,14 @@
 {
-  "name": "destined",
-  "version": "0.1.3",
-  "description": "fs, but in the future 🔮",
-  "main": "destined.js",
+  "name": "reasoned",
+  "version": "0.0.1",
+  "description": "logical structures for pages",
+  "main": "reasoned.js",
   "type": "module",
-  "repository": "brekk/destined",
+  "repository": "brekk/reasoned",
   "author": "brekk",
   "license": "MIT",
   "exports": {
-    ".": "./destined.js",
-    "./dig-up": "./dig-up.js",
-    "./dig-up.js": "./dig-up.js",
-    "./fs": "./fs.js",
-    "./fs.js": "./fs.js",
-    "./interpret": "./interpret.js",
-    "./interpret.js": "./interpret.js",
-    "./path": "./path.js",
-    "./path.js": "./path.js"
+    ".": "./reasoned.js"
   },
   "dependencies": {
     "find-up": "7.0.0",

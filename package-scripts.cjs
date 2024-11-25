@@ -1,7 +1,7 @@
 const sd = (script, description = ``) =>
   description ? { script, description } : { script }
 
-const INPUT = `./destined.js`
+const INPUT = `./reasoned.js`
 module.exports = {
   scripts: {
     clean: sd(`rm -r dist`, `clean the build!`),
